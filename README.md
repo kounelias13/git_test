@@ -1,0 +1,1 @@
+This is John Kounelias first git project
